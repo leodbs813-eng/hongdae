@@ -1,0 +1,13 @@
+{
+  "name": "홍대2026",
+  "short_name": "홍대2026",
+  "description": "홍대의 세 문화가 거리의 주도권을 두고 경쟁하는 액션·영역 점령 게임",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#101016",
+  "theme_color": "#101016",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
